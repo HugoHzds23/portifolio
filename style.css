@@ -2,7 +2,6 @@
     padding: 0px;
     margin: 0px;
 }
-
 .container{
     display: inline-flex;
     align-items: center;
@@ -10,11 +9,9 @@
     justify-content: center;
     padding: auto;
 }
-
 body{
     background-color: ghostwhite;
 }
-
 nav{
     margin: 1% 1%;
     background-color: black;
@@ -23,53 +20,43 @@ nav{
     border-radius: 40px;
     font-family: monospace;
 }
-
 nav > ul {
     display: inline-flex;
     color: white;
 }
-
 nav > ul > li{
     margin: 15px;
     list-style-type: none;
 }
-
 nav > ul > li > a{
     text-decoration: none;
     color: white;
 }
-
 main{
     text-align: center;
     font-family: monospace;
     font-size: 18px;
 }
-
 main > img{
     display: inline-block;
 }
-
 main > h1{ 
     display: inline-block;
     font-family: monospace;
 }
-
 main > h2{
     display: inline-block;
 }
-
 main > ul{
     display: block;
     margin: auto;
     text-align: center;
     text-decoration: none;
 }
-
 main > ul > li{
     display: inline-block;
     list-style-type: none;
 }
-
 main > ul > li > a > img{
     width: 40px;
     padding: 0px 10px;
